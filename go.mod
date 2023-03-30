@@ -1,4 +1,4 @@
-module gitee.com/chunanyong/dm
+module github.com/yansuan/dm
 
 go 1.13
 
